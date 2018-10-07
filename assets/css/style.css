@@ -1,0 +1,28 @@
+body {
+    background-image: url("../images/BG.jpg");
+    background-size: cover;
+    height: 25%;
+    margin: 10px;
+    font: 400 18px/1.8 "Lato", sans-serif;
+    color: white;
+}
+
+.bg {
+    height: 25%; 
+    opacity: 1;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+.container {
+        position: absolute;
+    text-align: center;
+    background: color #111;
+    Color: #fff;
+    padding: 12px;
+    font-size: 18px;
+    letter-spacing: 10px;
+}
+
+/* I lost hours trying to change the background image. The font is washed out --- ran out of time to make futher adjustments*/
