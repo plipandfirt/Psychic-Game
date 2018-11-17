@@ -30,3 +30,4 @@ In this assignment, I created a psychic computer game. The app runs in the brows
 
 
 ### Deployed Site
+https://plipandfirt.github.io/Psychic-Game/
